@@ -1,1 +1,1 @@
-# repository for website for lab2
+# repository for website for lab2git
